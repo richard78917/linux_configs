@@ -10,6 +10,7 @@ dnf -y install gnome-tweak-tool.noarch
 dnf -y install nautilus-open-terminal.x86_64
 dnf -y install thunderbird
 dnf -y install ckermit
+dnf -y install mc
 
 # unneeded packages
 dnf -y remove rhythmbox.x86_64
