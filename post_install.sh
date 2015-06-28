@@ -12,7 +12,6 @@ dnf -y install thunderbird
 dnf -y install ckermit
 dnf -y install mc
 
-
 # unneeded packages
 dnf -y remove rhythmbox.x86_64
 
